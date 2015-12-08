@@ -1,0 +1,28 @@
+name: danmanmj
+favicon: null
+layout_spectrum: 0.3189226761460304
+typography_spectrum: 0.5362280381377786
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5167423824314028
+  lightness: 0.5192828318104148
+  saturation: 0.7986060169059783
+  rhythmicContrast: 0.948758399579674
+purpose: []
