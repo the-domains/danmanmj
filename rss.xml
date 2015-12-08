@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Landscape Photographer]]></title>
+        <description><![CDATA[Landscape Photographer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Dec 2015 17:59:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Clapham 'Not-So' Common Sunset]]></title>
+            <description><![CDATA[<article><h1>Clapham 'Not-So' Common Sunset</h1><p>A beautiful sunset complimented by a street lamp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6520f6b4f884ae908414991eaa5d450dca12cc7.jpg"></article>]]></description>
+            <link>https://500px.com/photo/117005127/treeline-sunset-by-daniel-moriss-jeffery-</link>
+            <guid isPermaLink="false">ad98927a-21ac-41cd-9ddc-bb32b9f310b6</guid>
+            <pubDate>Tue, 08 Dec 2015 17:58:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
