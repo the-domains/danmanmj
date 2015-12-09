@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://500px.com/photo/117004869/last-sunset-of-2014-bude-cornwa
 inLanguage: null
 starred: false
 keywords: []
-description: '#NewYearsEve'
-datePublished: '2015-12-08T18:31:20.570Z'
-dateModified: '2015-12-08T18:31:04.807Z'
+description: 'https://www.google.co.uk/maps/place/Widemouth+Bay,+Bude,+Cornwall+EX23/@50.7862252,-4.5603915,15z/data=!4m2!3m1!1s0x486c77a5f724942d:0xa26f28d6b6230866'
+datePublished: '2015-12-09T09:07:10.587Z'
+dateModified: '2015-12-08T18:54:01.495Z'
 author: []
 related: []
 app_links:
@@ -22,14 +22,14 @@ app_links:
     app_store_id: '471965292'
     package: com.fivehundredpx.viewer
 title: The Last Sunset of 2014
+sourcePath: _posts/2015-12-08-the-last-sunset-of-2014.md
+published: true
 authors: []
 publisher:
   name: 500px
   domain: 500px.com
   url: 'https://500px.com'
   favicon: 'https://assetcdn.500px.org/assets/favicon-1e8257b93fb787f8ceb66b5522ee853c.ico'
-sourcePath: _posts/2015-12-08-the-last-sunset-of-2014.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
