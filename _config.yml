@@ -1,4 +1,20 @@
-analytics: {}
+name: danmanmj
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.88673
+title: Photography Website
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -8,11 +24,6 @@ color:
     - '#F4F482'
   brandStrength: 1
   lightness: 1
-  rhythmicContrast: 1
   saturation: 1
-cta: {}
-layout_spectrum: 0
-name: danmanmj
-opengraph: {}
+  rhythmicContrast: 1
 purpose: []
-typography_spectrum: 0.88673
