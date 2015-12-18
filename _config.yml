@@ -1,7 +1,7 @@
 name: danmanmj
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.88673
+typography_spectrum: 0.88226
 title: Photography Website
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 1
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
+  brandStrength: 0.125
+  lightness: 0.25
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
