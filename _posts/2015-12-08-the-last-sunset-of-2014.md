@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://www.google.co.uk/maps/place/Widemouth+Bay,+Bude,+Cornwall+EX23/@50.7862252,-4.5603915,15z/data=!4m2!3m1!1s0x486c77a5f724942d:0xa26f28d6b6230866'
-datePublished: '2016-01-07T16:20:32.400Z'
-dateModified: '2016-01-07T16:20:26.546Z'
+datePublished: '2016-01-07T16:42:40.620Z'
+dateModified: '2016-01-07T16:42:35.194Z'
 author: []
 related: []
 app_links:
