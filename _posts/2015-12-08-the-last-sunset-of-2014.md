@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://www.google.co.uk/maps/place/Widemouth+Bay,+Bude,+Cornwall+EX23/@50.7862252,-4.5603915,15z/data=!4m2!3m1!1s0x486c77a5f724942d:0xa26f28d6b6230866'
-datePublished: '2015-12-09T09:07:10.587Z'
-dateModified: '2015-12-08T18:54:01.495Z'
+datePublished: '2016-01-07T16:20:32.400Z'
+dateModified: '2016-01-07T16:20:26.546Z'
 author: []
 related: []
 app_links:
@@ -36,4 +36,4 @@ _type: MediaObject
 ---
 # The Last Sunset of 2014
 
-<article style=""><h1>Widemouth Bay Bude Cornwall.</h1><p>The last sun rays of 2014 in Bude Cornwall. #NewYearsEve</p><img src="https://drscdn.500px.org/photo/117004869/m%3D2048/382e4259119bfb2612d049980db7ca65" /></article>
+<article style=""><h1>Widemouth Bay Bude Cornwall.</h1><p>The last sun rays of 2014 in Bude Cornwall. #NewYearsEve</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/466efb60b8f56c7ead1ae58f85568324c98a7813.jpg" /></article>
