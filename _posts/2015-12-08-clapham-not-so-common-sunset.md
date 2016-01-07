@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://500px.com/photo/117005127/treeline-sunset-by-daniel-moriss-jeffery-'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: A beautiful sunset complimented by a street lamp.
-datePublished: '2015-12-09T16:31:12.599Z'
-dateModified: '2015-12-09T14:08:36.230Z'
+datePublished: '2016-01-07T16:21:58.950Z'
+dateModified: '2016-01-07T16:21:55.613Z'
 author: []
 related: []
 app_links:
@@ -36,4 +36,4 @@ _type: MediaObject
 ---
 # Clapham Common Autumn 2014 
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5c675065daa6998a68fac29fcd17c7ae8e1dffb.jpg" /></article>
+<article style=""><h1>Treeline Sunset</h1><p>A beautiful sunset complimented by a street lamp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afa0594988b844636ccff27040b442f8b02f814f.jpg" /></article>
